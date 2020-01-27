@@ -1,0 +1,31 @@
+body .home p {
+  color: red; }
+
+body .home div {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  background-color: pink; }
+
+body .home span {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  background-color: blue; }
+
+body .home .form {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  background-color: #D3D3D3;
+  margin: auto;
+  width: 50%;
+  padding-left: 10px;
+  padding-right: 10px; }
+
+body .home input {
+  padding: 8px;
+  display: block;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  width: 100%; }
